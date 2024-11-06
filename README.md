@@ -15,3 +15,14 @@ Healthy sleep cycle is essential for both mental and physical well-being, impact
 4- pip install jupyterlab
 
 5- jupyter notebook
+
+# Code Outputs:
+# Bar Chart:
+
+![bar chart](https://github.com/user-attachments/assets/080a2091-cda3-4775-9aaa-391b6d6b9342)
+
+# Scatter:
+![scatter](https://github.com/user-attachments/assets/57a5fbc9-0ac2-42e3-9e98-a31a23bd39a4)
+
+# Violin:
+![violin](https://github.com/user-attachments/assets/09292afb-ff54-4075-a259-84de0af1e974)
